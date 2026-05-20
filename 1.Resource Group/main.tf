@@ -4,5 +4,11 @@ resource "azurerm_resource_group" "rg1" {
   
 }
 
+resource "azurerm_resource_group" "practise" {
+    name="rg_hellomyworld"
+    location="centralindia"
+  
+}
+
 
 
