@@ -5,6 +5,9 @@
 # Terraform cache directory
 .terraform/
 
+# Terraform state lock file
+.terraform.lock.hcl
+
 # Terraform plan files
 *.tfplan
 *.plan
