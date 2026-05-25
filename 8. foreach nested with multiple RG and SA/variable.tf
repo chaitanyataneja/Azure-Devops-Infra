@@ -1,0 +1,2 @@
+variable "resource" {}
+variable "accounts" {}
